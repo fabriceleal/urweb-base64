@@ -1,0 +1,3 @@
+ffi base64_FFI
+include base64_FFI.h
+link base64_FFI.o
